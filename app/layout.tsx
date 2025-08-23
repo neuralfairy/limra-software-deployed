@@ -11,6 +11,9 @@ export const metadata: Metadata = {
   title: "Limra Softwares - AI-Powered Lead Discovery & Enrichment Platform",
   description:
     "Transform your sales process with Limra Softwares' AI-powered contact discovery and enrichment tools. Discover verified contacts and supercharge your outreach.",
+  icons: {
+    icon: "/favicon.png",
+  },
   keywords:
     "AI-powered prospecting, contact discovery, lead intelligence, B2B lead enrichment, Limra Softwares, B2B sales tools",
     generator: 'v0.dev'
